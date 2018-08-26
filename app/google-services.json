@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "858110284204",
+    "firebase_url": "https://fir-mix01.firebaseio.com",
+    "project_id": "fir-mix01",
+    "storage_bucket": "fir-mix01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858110284204:android:2d4d136b2c48667f",
+        "android_client_info": {
+          "package_name": "cl.evilgenius.firebase_mix_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858110284204-346dp40058h18jvvbnrb1f2p86r4baaq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.evilgenius.firebase_mix_1",
+            "certificate_hash": "9db845f9f7b3849fd87f1660da55efffe043fddc"
+          }
+        },
+        {
+          "client_id": "858110284204-936sfgoo905ero1nn0jgipa1ddts6aja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATEZQ1zYoq6pAvok3Mefes93hiDuZhXks"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858110284204-936sfgoo905ero1nn0jgipa1ddts6aja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858110284204:android:7f28df4bb184e5d9",
+        "android_client_info": {
+          "package_name": "cl.evilgenius.firemix01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858110284204-8ftcc01kfcrah405b0rkrsuemutunu36.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.evilgenius.firemix01",
+            "certificate_hash": "9db845f9f7b3849fd87f1660da55efffe043fddc"
+          }
+        },
+        {
+          "client_id": "858110284204-936sfgoo905ero1nn0jgipa1ddts6aja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATEZQ1zYoq6pAvok3Mefes93hiDuZhXks"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858110284204-936sfgoo905ero1nn0jgipa1ddts6aja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858110284204:android:0363181fbf6e6315",
+        "android_client_info": {
+          "package_name": "cl.evilgenius.foody_prototype1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858110284204-nv6599m2rald5snc0el4mmpv371kard4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.evilgenius.foody_prototype1",
+            "certificate_hash": "9db845f9f7b3849fd87f1660da55efffe043fddc"
+          }
+        },
+        {
+          "client_id": "858110284204-936sfgoo905ero1nn0jgipa1ddts6aja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATEZQ1zYoq6pAvok3Mefes93hiDuZhXks"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858110284204-936sfgoo905ero1nn0jgipa1ddts6aja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858110284204:android:83275dfdaf30a69a",
+        "android_client_info": {
+          "package_name": "cl.evilgenius.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858110284204-ueudorisjeg8ihu810q7kugh4jturlig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.evilgenius.myapplication",
+            "certificate_hash": "9db845f9f7b3849fd87f1660da55efffe043fddc"
+          }
+        },
+        {
+          "client_id": "858110284204-936sfgoo905ero1nn0jgipa1ddts6aja.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATEZQ1zYoq6pAvok3Mefes93hiDuZhXks"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858110284204-936sfgoo905ero1nn0jgipa1ddts6aja.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
